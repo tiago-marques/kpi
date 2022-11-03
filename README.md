@@ -7,9 +7,6 @@ You can run your application in dev mode that enables live coding using:
 ./mvnw compile quarkus:dev
 ```
 
-DEV UI
-http://localhost:8080/q/dev
-
 ## For use:
 
 1. Connect using some ISO currency at `http://localhost:8080/wise.html`
